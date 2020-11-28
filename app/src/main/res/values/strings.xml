@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Telemedicine</string>
+
+    <!--fragments-->
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_profile">Profile</string>
+    <!--layout text-->
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="urgent_button">Urgent</string>
+    <string name="add_photos">Add Photos</string>
+
+    <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet
+        lectus proin nibh nisl.</string>
+
+    <!--Sign Up/ Login screens-->
+    <string name="full_name_header">Full Name</string>
+    <string name="full_name_description">Your Full Name</string>
+    <string name="birthday_header">Birthday</string>
+    <string name="birthday_format_description">yyyy/MM/dd</string>
+    <string name="email_header">Email</string>
+    <string name="email_description">Your Email</string>
+    <string name="phone_number_header">Phone Number</string>
+    <string name="phone_number_description">Your Phone Number</string>
+    <string name="address_header">Location/Address</string>
+    <string name="address_description">Your Location</string>
+    <string name="next_button">Next</string>
+    <string name="email_address_description">Email Address</string>
+    <string name="password_description">Password</string>
+    <string name="very_urgent_button">Very Urgent</string>
+    <string name="home_name_header">Name</string>
+    <string name="home_name_description">Your Name</string>
+    <string name="home_illness_description">What is your illness</string>
+    <string name="home_disease_header">Disease</string>
+    <string name="home_location_header">Location</string>
+    <string name="home_location_description">Your Location</string>
+    <string name="home_description_header">Description (Optional)</string>
+    <string name="home_description_body">Describe Here</string>
+    <string name="home_request_button">Request</string>
+    <!--Misc-->
+    <string name="approve_req_message">Your Request Has Been\nApproved</string>
+    <string name="username_header">Username</string>
+    <string name="username_description">Your Username</string>
+    <string name="password_header">Password</string>
+
+</resources>
